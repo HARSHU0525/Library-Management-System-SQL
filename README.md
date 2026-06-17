@@ -1,22 +1,22 @@
 # Library Management System | SQL Project
 
-## Overview
+# Overview
 A MySQL-based Library Management System designed to manage books, authors, members, and borrowing transactions.
 
-## Features
+# Features
 - Manage books and authors
 - Manage library members
 - Track borrowed and returned books
 - Search and display available books
 - Generate reports using SQL queries
 
-## Database Tables
+# Database Tables
 - Authors
 - Books
 - Members
 - BorrowRecords
 
-## SQL Concepts Used
+# SQL Concepts Used
 - Database creation
 - Tables and relationships
 - Primary Keys and Foreign Keys
@@ -26,12 +26,12 @@ A MySQL-based Library Management System designed to manage books, authors, membe
 - GROUP BY and aggregate functions
 - Views
 
-## Technologies Used
+# Technologies Used
 - MySQL
 - SQL
 - MySQL Workbench
 
-## Project Structure
+# Project Structure
 
 Library-Management-System-SQL/
 |
@@ -39,12 +39,12 @@ Library-Management-System-SQL/
 |-- queries.sql
 |-- README.md
 
-## Sample Reports
+# Sample Reports
 - Books with author information
 - Currently borrowed books
 - Most borrowed books
 - Books count by category
 
-## Resume Description
+# Description
 
 Designed and developed a Library Management System using MySQL. Created relational tables for books, authors, members, and borrowing records, and implemented SQL operations, JOINs, aggregate queries, and views for reporting.
